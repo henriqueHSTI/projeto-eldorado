@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/ms-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/ms-usuario/pom.xml" />
+        <option value="$PROJECT_DIR$/ms-discovery/pom.xml" />
+        <option value="$PROJECT_DIR$/ms-funcionario/pom.xml" />
+        <option value="$PROJECT_DIR$/ms-notificacao/pom.xml" />
+        <option value="$PROJECT_DIR$/ms-autenticacao/pom.xml" />
+        <option value="$PROJECT_DIR$/eldorado-commons/pom.xml" />
+        <option value="$PROJECT_DIR$/ms-schedule/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_18" default="true" project-jdk-name="18" project-jdk-type="JavaSDK" />
+</project>

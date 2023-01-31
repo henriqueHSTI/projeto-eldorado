@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ms-funcionario" />
+        <module name="ms-schedule" />
+        <module name="ms-discovery" />
+        <module name="ms-autenticacao" />
+        <module name="ms-usuario" />
+        <module name="ms-notificacao" />
+        <module name="eldorado-commons" />
+        <module name="ms-gateway" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="eldorado-commons" target="17" />
+      <module name="ms-autenticacao" target="17" />
+      <module name="ms-discovery" target="17" />
+      <module name="ms-funcionario" target="17" />
+      <module name="ms-gateway" target="17" />
+      <module name="ms-notificacao" target="17" />
+      <module name="ms-schedule" target="17" />
+      <module name="ms-usuario" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="eldorado-commons" options="-parameters" />
+      <module name="ms-autenticacao" options="-parameters" />
+      <module name="ms-discovery" options="-parameters" />
+      <module name="ms-funcionario" options="-parameters" />
+      <module name="ms-gateway" options="-parameters" />
+      <module name="ms-notificacao" options="-parameters" />
+      <module name="ms-schedule" options="-parameters" />
+      <module name="ms-usuario" options="-parameters" />
+    </option>
+  </component>
+</project>

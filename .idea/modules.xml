@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/eldorado-commons/eldorado-commons.iml" filepath="$PROJECT_DIR$/eldorado-commons/eldorado-commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/eldorado-projeto-v2.iml" filepath="$PROJECT_DIR$/.idea/eldorado-projeto-v2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-autenticacao/ms-autenticacao.iml" filepath="$PROJECT_DIR$/ms-autenticacao/ms-autenticacao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-discovery/ms-discovery.iml" filepath="$PROJECT_DIR$/ms-discovery/ms-discovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-funcionario/ms-funcionario.iml" filepath="$PROJECT_DIR$/ms-funcionario/ms-funcionario.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-gateway/ms-gateway.iml" filepath="$PROJECT_DIR$/ms-gateway/ms-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-notificacao/ms-notificacao.iml" filepath="$PROJECT_DIR$/ms-notificacao/ms-notificacao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-schedule/ms-schedule.iml" filepath="$PROJECT_DIR$/ms-schedule/ms-schedule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-usuario/ms-usuario.iml" filepath="$PROJECT_DIR$/ms-usuario/ms-usuario.iml" />
+    </modules>
+  </component>
+</project>

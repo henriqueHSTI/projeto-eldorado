@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/eldorado-commons/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eldorado-commons/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-autenticacao/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-autenticacao/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-discovery/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-discovery/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-funcionario/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-funcionario/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-gateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-notificacao/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-notificacao/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-schedule/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-schedule/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-usuario/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-usuario/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
