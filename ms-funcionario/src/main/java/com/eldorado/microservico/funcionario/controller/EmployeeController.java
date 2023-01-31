@@ -20,8 +20,6 @@ public class EmployeeController {
 
     @PostMapping
     public ResponseEntity<EmployeeDto> createEmployee(@RequestBody EmployeeDto employeeDto) {
-
-
         log.info("Saving employee {}", employeeDto);
 
         return ResponseEntity.ok(employeeService.createEmployee(employeeDto));

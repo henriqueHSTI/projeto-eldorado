@@ -18,6 +18,12 @@ spring:
           predicates:
             - Path=/employee/**
             - Method=GET,PUT,POST
+
+        - id: schedule
+          uri: lb://ms-schedule
+          predicates:
+            - Path=/schedule/**
+            - Method=GET,PUT,POST
 eureka:
   client:
     register-with-eureka: true

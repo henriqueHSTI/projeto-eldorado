@@ -9,7 +9,7 @@ import org.springframework.cloud.openfeign.EnableFeignClients;
 
 @SpringBootApplication
 @EnableMapper
-@EnableAuthorization
+//@EnableAuthorization
 @EnableRabbit
 @EnableFeignClients
 public class MsScheduleApplication {
