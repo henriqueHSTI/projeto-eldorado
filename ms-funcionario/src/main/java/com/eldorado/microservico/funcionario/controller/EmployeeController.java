@@ -33,9 +33,9 @@ public class EmployeeController {
     }
 
     @GetMapping("/{employeeId}")
-    public ResponseEntity<EmployeeDto> findById(@PathVariable UUID employeeID) {
+    public ResponseEntity<EmployeeDto> findById(@PathVariable UUID employeeId) {
         log.info("Retrieving all employees");
-        return ResponseEntity.ok(employeeService.findById(employeeID));
+        return ResponseEntity.ok(employeeService.findById(employeeId));
     }
 
 

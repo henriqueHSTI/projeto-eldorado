@@ -13,16 +13,14 @@ import org.springframework.data.mongodb.core.mapping.Document;
 
 import java.time.LocalDate;
 import java.time.LocalDateTime;
-import java.util.List;
-import java.util.Set;
 import java.util.UUID;
 
-@Document("schedule")
+@Document("appointment")
 @Data
 @Builder
 @NoArgsConstructor
 @AllArgsConstructor
-public class ScheduleEntity {
+public class AppointmentEntity {
     @Id
     private UUID id;
     @Indexed
@@ -31,10 +29,15 @@ public class ScheduleEntity {
     @NonNull
     private WeekEnum dayOfWeek;
     @NonNull
-    private List<String> workTimes;
+    private String workTime;
     @NonNull
     private LocalDate workDate;
     private String createdBy;
     private LocalDateTime createdAt;
+
+    private UserEntity user;
+
+    private EmployeeEntity employee;
+
 
 }

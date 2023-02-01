@@ -12,6 +12,6 @@ import java.util.UUID;
 public interface EmployeeFeignInterface {
 
     @GetMapping(value = "/employee/{employeeId}")
-    EmployeeDto getLogin(@PathVariable UUID employeeId);
+    EmployeeDto getEmployee(@PathVariable UUID employeeId);
 
 }
